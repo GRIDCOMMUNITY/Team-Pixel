@@ -1,0 +1,9 @@
+{
+  "name": "team-pixel",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Kanban Board - Hack Day Haldia x GRID community starter",
+  "scripts": {
+    "start": "npx --yes serve ."
+  }
+}
